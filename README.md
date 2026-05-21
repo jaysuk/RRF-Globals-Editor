@@ -2,6 +2,8 @@
 
 A [DuetWebControl](https://github.com/Duet3D/DuetWebControl) plugin for RepRapFirmware that lets you view, edit, and create `global.*` variables directly from the web interface.
 
+![Globals Editor screenshot](screenshot.png)
+
 ## Features
 
 - **Live list** — all `global.*` variables are listed automatically and kept up to date as the object model polls
